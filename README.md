@@ -182,7 +182,7 @@ graph TD
 | | [Kubernetes: From First Pod to Production](https://github.com/johandeclercqdemocon/kubernetes-docs) | running many of those units |
 | | [LangChain: From First Call to Production](https://github.com/johandeclercqdemocon/langchain-docs) | the components of an LLM application |
 | | [LangGraph: From First Graph to Production](https://github.com/johandeclercqdemocon/langgraph-docs) | the runtime beneath them |
-| **→** | **Deep Agents: From First Harness to Production** | a ready-made harness on top |
+| **→** | [Deep Agents: From First Harness to Production](https://github.com/johandeclercqdemocon/deepagents-docs) | a ready-made harness on top |
 
 **Deep Agents and LangGraph are alternatives, not a sequence** — a ready-made harness versus
 control flow you design. [Chapter 31](chapters/31-the-stack.md) covers choosing.
