@@ -7,6 +7,8 @@ it at all.
 Written against **deepagents 0.7.11** / **langchain 1.3.18** / **langgraph 1.2.11**, on
 Python 3.12.
 
+**[Read it as a PDF](deepagents-book.pdf)** — the whole book in one file, 135 pages, with a linked table of contents. Rebuild it with `python scripts/build_pdf.py` (needs `weasyprint markdown pygments`, which are deliberately not project dependencies).
+
 ## Who this is for
 
 Someone who has built an agent and watched it degrade on a long task — context filling up,
